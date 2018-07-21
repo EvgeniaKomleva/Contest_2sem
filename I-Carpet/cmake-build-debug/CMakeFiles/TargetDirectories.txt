@@ -1,0 +1,3 @@
+C:/Users/komle/CLionProjects/I-Carpet/cmake-build-debug/CMakeFiles/I_Carpet.dir
+C:/Users/komle/CLionProjects/I-Carpet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/komle/CLionProjects/I-Carpet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

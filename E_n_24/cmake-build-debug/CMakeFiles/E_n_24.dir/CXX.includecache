@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/komle/CLionProjects/E_n_24/main.cpp
+iostream
+-
+algorithm
+-
+cassert
+-
+queue
+-
+cmath
+-
+
